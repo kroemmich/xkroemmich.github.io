@@ -1,3 +1,6 @@
-theme: jekyll-theme-tactile
-title: Kat Roemmich
-markdown: kramdown
+theme : jekyll-theme-tactile
+author :
+  name : Kat Roemmich
+  email : roemmich@umich.edu
+  github : kroemmich
+  twitter : katroemmich
