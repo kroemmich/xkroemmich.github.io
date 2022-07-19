@@ -1,9 +1,7 @@
-theme : jekyll-theme-tactile
+theme : jekyll-theme-dinky
+title: Kat Roemmich
 author :
   name : Kat Roemmich
   email : roemmich@umich.edu
   github : kroemmich
   twitter : katroemmich
-
-theme: jekyll-theme-dinky
-title: Kat Roemmich
