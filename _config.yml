@@ -1,7 +1,2 @@
-theme : jekyll-theme-dinky
-title: Kat Roemmich
-author :
-  name : Kat Roemmich
-  email : roemmich@umich.edu
-  github : kroemmich
-  twitter : katroemmich
+name: Kat Roemmich
+markdown: kramdown
