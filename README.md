@@ -1,3 +1,8 @@
+#About Me
+I am a PhD student at the University of Michigan School of Information researching privacy, tech ethics, and marginalization.  My current projects explore the ethical, social, and privacy implications of Emotion AI-enabled technologies and applications. I am advised by Naz Andalibi and Florian Schaub.  
+
+#Publications
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kroemmich/kroemmich.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
